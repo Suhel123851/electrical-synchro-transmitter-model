@@ -30,9 +30,8 @@ It mimics how the angular position from a transmitter can control a receiver —
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)
+![ChatGPT Image Jun 23, 2025, 02_00_30 PM](https://github.com/user-attachments/assets/d593ec55-0578-4699-bbeb-bf884d7e91d3)
 
----
 
 ## 🧾 Arduino Code
 
