@@ -31,7 +31,9 @@ It mimics how the angular position from a transmitter can control a receiver —
 ## 🔌 Circuit Diagram
 
 circuit_diagram.png
+## Simulation image 
 
+circuit_simulation.png
 
 ## 🧾 Arduino Code
 
